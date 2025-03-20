@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=david-slatinek&&style=flat-square" align="center" />
-</div>
-
-DevOps Engineer focused on building and automating scalable systems. Passionate about designing and implementing robust infrastructure solutions. Expertise in CI/CD pipelines, infrastructure as code, and cloud platforms. Committed to delivering high-quality software through collaboration and automation.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-slatinek) 
+Infrastructure Engineer focused on building and automating scalable systems. Passionate about designing and implementing robust infrastructure solutions. Expertise in CI/CD pipelines, infrastructure as code, and cloud platforms. Committed to delivering high-quality software through collaboration and automation.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
