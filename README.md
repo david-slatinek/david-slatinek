@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-[![](https://visitcount.itsvg.in/api?id=david-slatinek&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://hit.yhype.me/github/profile?user_id=79467409)
+![](https://hit.yhype.me/github/profile?account_id=79467409)
 
 DevOps Engineer focused on building and automating scalable systems. Passionate about designing and implementing robust infrastructure solutions. Expertise in CI/CD pipelines, infrastructure as code, and cloud platforms. Committed to delivering high-quality software through collaboration and automation.
 
