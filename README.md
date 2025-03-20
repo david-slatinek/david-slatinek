@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-![](https://hit.yhype.me/github/profile?account_id=79467409)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=david-slatinek&&style=flat-square" align="center" />
+</div>
 
 DevOps Engineer focused on building and automating scalable systems. Passionate about designing and implementing robust infrastructure solutions. Expertise in CI/CD pipelines, infrastructure as code, and cloud platforms. Committed to delivering high-quality software through collaboration and automation.
 
